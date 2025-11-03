@@ -47,6 +47,7 @@
     "onLanguage:cpp",
     "onLanguage:objective-c",
     "onLanguage:objective-cpp",
+    "onLanguage:cuda-cpp",
     "workspaceContains:.ccls",
     "workspaceContains:compile_commands.json"
   ],

@@ -13,76 +13,91 @@ Insert below codes to the users `settings.json`
             "class:cpp": { "foreground": "#e1afc3" },
             "class:objective-c": { "foreground": "#e1afc3" },
             "class:objective-cpp": { "foreground": "#e1afc3" },
-            
+            "class:cuda-cpp": { "foreground": "#e1afc3" },
+
             "constructor:c": { "foreground": "#e5b124" },
             "constructor:cpp": { "foreground": "#e5b124" },
             "constructor:objective-c": { "foreground": "#e5b124" },
             "constructor:objective-cpp": { "foreground": "#e5b124" },
-            
+            "constructor:cuda-cpp": { "foreground": "#e5b124" },
+
             "enum:c": { "foreground": "#e1afc3" },
             "enum:cpp": { "foreground": "#e1afc3" },
             "enum:objective-c": { "foreground": "#e1afc3" },
             "enum:objective-cpp": { "foreground": "#e1afc3" },
-            
+            "enum:cuda-cpp": { "foreground": "#e1afc3" },
+
             "enumMember:c": { "foreground": "#429921" },
             "enumMember:cpp": { "foreground": "#429921" },
             "enumMember:objective-c": { "foreground": "#429921" },
             "enumMember:objective-cpp": { "foreground": "#429921" },
-            
+            "enumMember:cuda-cpp": { "foreground": "#429921" },
+
             "field:c": { "foreground": "#429921" },
             "field:cpp": { "foreground": "#429921" },
             "field:objective-c": { "foreground": "#429921" },
             "field:objective-cpp": { "foreground": "#429921" },
-            
+            "field:cuda-cpp": { "foreground": "#429921" },
+
             "function:c": { "foreground": "#e5b124" },
             "function:cpp": { "foreground": "#e5b124" },
             "function:objective-c": { "foreground": "#e5b124" },
             "function:objective-cpp": { "foreground": "#e5b124" },
-            
+            "function:cuda-cpp": { "foreground": "#e5b124" },
+
             "method:c": { "foreground": "#e5b124" },
             "method:cpp": { "foreground": "#e5b124" },
             "method:objective-c": { "foreground": "#e5b124" },
             "method:objective-cpp": { "foreground": "#e5b124" },
-            
+            "method:cuda-cpp": { "foreground": "#e5b124" },
+
             "parameter:c": { "foreground": "#e5b124" },
             "parameter:cpp": { "foreground": "#e5b124" },
             "parameter:objective-c": { "foreground": "#e5b124" },
             "parameter:objective-cpp": { "foreground": "#e5b124" },
-            
+            "parameter:cuda-cpp": { "foreground": "#e5b124" },
+
             "struct:c": { "foreground": "#e1afc3" },
             "struct:cpp": { "foreground": "#e1afc3" },
             "struct:objective-c": { "foreground": "#e1afc3" },
             "struct:objective-cpp": { "foreground": "#e1afc3" },
-            
+            "struct:cuda-cpp": { "foreground": "#e1afc3" },
+
             "typeAlias:c": { "foreground": "#e1afc3" },
             "typeAlias:cpp": { "foreground": "#e1afc3" },
             "typeAlias:objective-c": { "foreground": "#e1afc3" },
             "typeAlias:objective-cpp": { "foreground": "#e1afc3" },
-            
+            "typeAlias:cuda-cpp": { "foreground": "#e1afc3" },
+
             "typeParameter:c": { "foreground": "#e1afc3" },
             "typeParameter:cpp": { "foreground": "#e1afc3" },
             "typeParameter:objective-c": { "foreground": "#e1afc3" },
             "typeParameter:objective-cpp": { "foreground": "#e1afc3" },
-            
+            "typeParameter:cuda-cpp": { "foreground": "#e1afc3" },
+
             "variable:c": { "foreground": "#429921" },
             "variable:cpp": { "foreground": "#429921" },
             "variable:objective-c": { "foreground": "#429921" },
             "variable:objective-cpp": { "foreground": "#429921" },
-            
+            "variable:cuda-cpp": { "foreground": "#429921" },
+
             "*.static:c": { "fontStyle": "bold" },
             "*.static:cpp": { "fontStyle": "bold" },
             "*.static:objective-c": { "fontStyle": "bold" },
             "*.static:objective-cpp": { "fontStyle": "bold" },
-            
+            "*.static:cuda-cpp": { "fontStyle": "bold" },
+
             "*.classScope:c": { "fontStyle": "italic" },
             "*.classScope:cpp": { "fontStyle": "italic" },
             "*.classScope:objective-c": { "fontStyle": "italic" },
             "*.classScope:objective-cpp": { "fontStyle": "italic" },
-            
+            "*.classScope:cuda-cpp": { "fontStyle": "italic" },
+
             "*.namespaceScope:c": { "fontStyle": "bold underline" },
             "*.namespaceScope:cpp": { "fontStyle": "bold underline" },
             "*.namespaceScope:objective-c": { "fontStyle": "bold underline" },
             "*.namespaceScope:objective-cpp": { "fontStyle": "bold underline" },
+            "*.namespaceScope:cuda-cpp": { "fontStyle": "bold underline" },
 
             "class.id0": { "foreground": "#e1afc3" },
             "class.id1": { "foreground": "#d533bb" },

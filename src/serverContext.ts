@@ -451,7 +451,7 @@ export class ServerContext implements Disposable {
     // Options to control the language client
     const clientOptions: LanguageClientOptions = {
       diagnosticCollectionName: 'ccls',
-      documentSelector: ['c', 'cpp', 'objective-c', 'objective-cpp'],
+      documentSelector: ['c', 'cpp', 'objective-c', 'objective-cpp', 'cuda-cpp'],
       // synchronize: {
       // 	configurationSection: 'ccls',
       // 	fileEvents: workspace.createFileSystemWatcher('**/.cc')
